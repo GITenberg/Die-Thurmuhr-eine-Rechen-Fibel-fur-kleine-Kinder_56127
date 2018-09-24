@@ -1,13 +1,18 @@
 _repo: Die-Thurmuhr-eine-Rechen-Fibel-fur-kleine-Kinder_56127
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Normann, Friedrich Gustav
     gutenberg_agent_id: '48682'
     url: http://www.gutenberg.org/2009/agents/48682
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56127#Die-Thurmuhr-eine-Rechen-Fibel-fur-kleine-Kinder
 gutenberg_issued: '2017-12-04'
 gutenberg_type: Text
 identifiers:
